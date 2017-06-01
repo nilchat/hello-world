@@ -1,2 +1,2 @@
-# hello-world
-Updated the readme file
+# ud120-practice-code
+This is a repository of the MLpractice project codes 
